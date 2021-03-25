@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Letting Go</string>
+    <string name="title_activity_let_go">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="text_hint">What would I like to let go of?</string>
+    <string name="why_hint">Why?</string>
+    <string name="let_go_button">Let Go</string>
+    <string name="time_to_let_go">Time to let go</string>
+    <string name="exit_button">Continue with my day</string>
+</resources>
